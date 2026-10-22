@@ -1,0 +1,3351 @@
+{
+  "course": "Conservation Geography",
+  "sourceDescription": "Extracted from the 12 user-provided Week 1-12 solution PDFs in NPTEL_FILES.zip.",
+  "answerKeyRule": "For every question, correctAnswer is the option visibly formatted in bold in the source PDF. Do not infer a different answer or alter this key automatically.",
+  "verificationSummary": {
+    "sourcePdfs": 12,
+    "weeks": 12,
+    "questions": 120,
+    "options": 480,
+    "questionsWithExactlyFourOptions": 120,
+    "questionsWithExactlyOneBoldOption": 120
+  },
+  "weeks": [
+    { 
+      "week": 1,
+      "title": "Week 1",
+      "sourcePdf": "Conservation Geography Week 1 Solutions (1).pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w01-q01",
+          "number": 1,
+          "question": "The regular, seasonal movement of animals, often along fixed routes is called",
+          "options": [
+            {
+              "label": "A",
+              "text": "translocation"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "dispersal"
+            },
+            {
+              "label": "D",
+              "text": "drifting"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "migration",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w01-q02",
+          "number": 2,
+          "question": "The systematic approach to Geography was developed by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alexander von Humboldt"
+            },
+            {
+              "label": "B",
+              "text": "Karl Ritter"
+            },
+            {
+              "label": "C",
+              "text": "Rene Descartes"
+            },
+            {
+              "label": "D",
+              "text": "Eratosthenes"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Alexander von Humboldt",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w01-q03",
+          "number": 3,
+          "question": "I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about",
+          "options": [
+            {
+              "label": "A",
+              "text": "autophagy"
+            },
+            {
+              "label": "B",
+              "text": "allelophagy"
+            },
+            {
+              "label": "C",
+              "text": "autopathy"
+            },
+            {
+              "label": "D",
+              "text": "allelopathy"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "allelopathy",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w01-q04",
+          "number": 4,
+          "question": "A lake still exists physically, but sewage and plastic waste reduce the number of fish it can support. This is best called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Habitat degradation"
+            },
+            {
+              "label": "B",
+              "text": "Habitat fragmentation"
+            },
+            {
+              "label": "C",
+              "text": "Jump dispersal"
+            },
+            {
+              "label": "D",
+              "text": "Secular dispersal"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Habitat degradation",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w01-q05",
+          "number": 5,
+          "question": "“Science of relationships between organisms and their environments” is the definition of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "conservation"
+            },
+            {
+              "label": "B",
+              "text": "preservation"
+            },
+            {
+              "label": "C",
+              "text": "environmentalism"
+            },
+            {
+              "label": "D",
+              "text": "ecology"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "ecology",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w01-q06",
+          "number": 6,
+          "question": "\"The rate of any biological process is limited by that factor in least amount relative to requirement, so there is a single limiting factor.\" This is the statement for",
+          "options": [
+            {
+              "label": "A",
+              "text": "Liebig’s law of the minimum"
+            },
+            {
+              "label": "B",
+              "text": "Liebig’s law of the maximum"
+            },
+            {
+              "label": "C",
+              "text": "Shelford’s law of tolerance"
+            },
+            {
+              "label": "D",
+              "text": "Shelford’s law of intolerance"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Liebig’s law of the minimum",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w01-q07",
+          "number": 7,
+          "question": "In the word root for conservation, con stands for",
+          "options": [
+            {
+              "label": "A",
+              "text": "together"
+            },
+            {
+              "label": "B",
+              "text": "to keep"
+            },
+            {
+              "label": "C",
+              "text": "house"
+            },
+            {
+              "label": "D",
+              "text": "manage"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "together",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w01-q08",
+          "number": 8,
+          "question": "In the word root for conservation, servare stands for",
+          "options": [
+            {
+              "label": "A",
+              "text": "together"
+            },
+            {
+              "label": "B",
+              "text": "to keep"
+            },
+            {
+              "label": "C",
+              "text": "house"
+            },
+            {
+              "label": "D",
+              "text": "manage"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "to keep",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }, 
+        {
+          "id": "cg-w01-q09",
+          "number": 9,
+          "question": "The Geographical discipline of Climatology is most closely related to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Geology"
+            },
+            {
+              "label": "B",
+              "text": "Meteorology"
+            },
+            {
+              "label": "C",
+              "text": "Hydrology"
+            },
+            {
+              "label": "D",
+              "text": "Pedology"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Meteorology",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w01-q10",
+          "number": 10,
+          "question": "Good climate is a",
+          "options": [
+            {
+              "label": "A",
+              "text": "chemical factor"
+            },
+            {
+              "label": "B",
+              "text": "demographic factor"
+            },
+            {
+              "label": "C",
+              "text": "push factor"
+            },
+            {
+              "label": "D",
+              "text": "pull factor"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "pull factor",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Week 2",
+      "sourcePdf": "Conservation Geography Week 2 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w02-q01",
+          "number": 1,
+          "question": "Mount Fuji is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shield volcano"
+            },
+            {
+              "label": "B",
+              "text": "Stratovolcano"
+            },
+            {
+              "label": "C",
+              "text": "Caldera"
+            },
+            {
+              "label": "D",
+              "text": "Flood basalt province"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Stratovolcano",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w02-q02",
+          "number": 2,
+          "question": "The main source of magma is",
+          "options": [
+            {
+              "label": "A",
+              "text": "Crust"
+            },
+            {
+              "label": "B",
+              "text": "Mantle"
+            },
+            {
+              "label": "C",
+              "text": "Outer core"
+            },
+            {
+              "label": "D",
+              "text": "Inner core"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Mantle",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w02-q03",
+          "number": 3,
+          "question": "Which of these is not a method of absolute dating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radioisotope dating"
+            },
+            {
+              "label": "B",
+              "text": "thermoluminescence dating"
+            },
+            {
+              "label": "C",
+              "text": "inclusion study"
+            },
+            {
+              "label": "D",
+              "text": "fission track dating"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "inclusion study",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w02-q04",
+          "number": 4,
+          "question": "What are planetesimals?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fully formed gas giants"
+            },
+            {
+              "label": "B",
+              "text": "Fragments of continental crust"
+            },
+            {
+              "label": "C",
+              "text": "Small bodies formed from gas and dust that can accrete into planets"
+            },
+            {
+              "label": "D",
+              "text": "Layers of volcanic ash within a mountain"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Small bodies formed from gas and dust that can accrete into planets",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w02-q05",
+          "number": 5,
+          "question": "Hawaiian volcanoes are an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shield volcano"
+            },
+            {
+              "label": "B",
+              "text": "Stratovolcano"
+            },
+            {
+              "label": "C",
+              "text": "Caldera"
+            },
+            {
+              "label": "D",
+              "text": "Flood basalt province"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Shield volcano",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w02-q06",
+          "number": 6,
+          "question": "Which of these is true about P waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are longitudinal in nature"
+            },
+            {
+              "label": "B",
+              "text": "They are transverse in nature"
+            },
+            {
+              "label": "C",
+              "text": "They cannot move through gases"
+            },
+            {
+              "label": "D",
+              "text": "They cannot move through liquids"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "They are longitudinal in nature",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w02-q07",
+          "number": 7,
+          "question": "Assemblage of fossils are unique to the time that they lived in, and so can be used to age rocks across a wide geographic distribution. This is known as",
+          "options": [
+            {
+              "label": "A",
+              "text": "Principle of fossil succession"
+            },
+            {
+              "label": "B",
+              "text": "Principle of original horizontality"
+            },
+            {
+              "label": "C",
+              "text": "Principle of superposition"
+            },
+            {
+              "label": "D",
+              "text": "Principle of cross-cutting relationships"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Principle of fossil succession",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w02-q08",
+          "number": 8,
+          "question": "Which set contains only terrestrial planets?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Jupiter, Saturn, Uranus, Neptune"
+            },
+            {
+              "label": "B",
+              "text": "Earth, Jupiter, Mars, Saturn"
+            },
+            {
+              "label": "C",
+              "text": "Mercury, Venus, Uranus, Neptune"
+            },
+            {
+              "label": "D",
+              "text": "Mercury, Venus, Earth, Mars"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Mercury, Venus, Earth, Mars",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w02-q09",
+          "number": 9,
+          "question": "Within a depositional basin, strata are laterally continuous in all directions till the edge of the basin. This is known as",
+          "options": [
+            {
+              "label": "A",
+              "text": "Principle of superposition"
+            },
+            {
+              "label": "B",
+              "text": "Principle of original horizontality"
+            },
+            {
+              "label": "C",
+              "text": "Principle of lateral continuity"
+            },
+            {
+              "label": "D",
+              "text": "Principle of inclusions"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Principle of lateral continuity",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w02-q10",
+          "number": 10,
+          "question": "Deccan traps are an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shield volcano"
+            },
+            {
+              "label": "B",
+              "text": "Stratovolcano"
+            },
+            {
+              "label": "C",
+              "text": "Caldera"
+            },
+            {
+              "label": "D",
+              "text": "Flood basalt province"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Flood basalt province",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Week 3",
+      "sourcePdf": "Conservation Geography Week 3 Solutions.docx.pdf",
+      "sourcePages": 3,
+      "questions": [
+        {
+          "id": "cg-w03-q01",
+          "number": 1,
+          "question": "Mudrock is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "siliciclastic rock"
+            },
+            {
+              "label": "B",
+              "text": "carbonate rock"
+            },
+            {
+              "label": "C",
+              "text": "evaporite rock"
+            },
+            {
+              "label": "D",
+              "text": "phosphatic rock"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "siliciclastic rock",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w03-q02",
+          "number": 2,
+          "question": "Carbonation is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "chemical weathering"
+            },
+            {
+              "label": "B",
+              "text": "physical weathering"
+            },
+            {
+              "label": "C",
+              "text": "biological weathering"
+            },
+            {
+              "label": "D",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "chemical weathering",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w03-q03",
+          "number": 3,
+          "question": "“green or black coloured inosilicate minerals forming prism or needle-like crystals” is a description of",
+          "options": [
+            {
+              "label": "A",
+              "text": "amphiboles"
+            },
+            {
+              "label": "B",
+              "text": "feldspar"
+            },
+            {
+              "label": "C",
+              "text": "mica"
+            },
+            {
+              "label": "D",
+              "text": "pyroxene"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "amphiboles",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w03-q04",
+          "number": 4,
+          "question": "Hydrolysis is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "chemical weathering"
+            },
+            {
+              "label": "B",
+              "text": "physical weathering"
+            },
+            {
+              "label": "C",
+              "text": "biological weathering"
+            },
+            {
+              "label": "D",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "chemical weathering",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w03-q05",
+          "number": 5,
+          "question": "Which of these is an example of exogenic process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volcanism"
+            },
+            {
+              "label": "B",
+              "text": "earthquake"
+            },
+            {
+              "label": "C",
+              "text": "plate tectonics"
+            },
+            {
+              "label": "D",
+              "text": "deposition"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "deposition",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w03-q06",
+          "number": 6,
+          "question": "Which statement best explains why streak is often more useful than surface colour for mineral identification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Streak measures the density of the mineral"
+            },
+            {
+              "label": "B",
+              "text": "Surface colour never changes in minerals"
+            },
+            {
+              "label": "C",
+              "text": "Streak shows the colour of the powdered mineral and may reduce the effect of minor impurities"
+            },
+            {
+              "label": "D",
+              "text": "Streak reveals the age of the mineral"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Streak shows the colour of the powdered mineral and may reduce the effect of minor impurities",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w03-q07",
+          "number": 7,
+          "question": "Which factor is listed as an independent control over landform development?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mineral streak"
+            },
+            {
+              "label": "B",
+              "text": "Crystal habit"
+            },
+            {
+              "label": "C",
+              "text": "Knife-blade hardness"
+            },
+            {
+              "label": "D",
+              "text": "Stability of sea level"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Stability of sea level",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w03-q08",
+          "number": 8,
+          "question": "Sandstone is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "siliciclastic rock"
+            },
+            {
+              "label": "B",
+              "text": "carbonate rock"
+            },
+            {
+              "label": "C",
+              "text": "evaporite rock"
+            },
+            {
+              "label": "D",
+              "text": "phosphatic rock"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "siliciclastic rock",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w03-q09",
+          "number": 9,
+          "question": "“tendency to break in given directions producing relatively plane surfaces” is known as",
+          "options": [
+            {
+              "label": "A",
+              "text": "cleavage"
+            },
+            {
+              "label": "B",
+              "text": "fracture"
+            },
+            {
+              "label": "C",
+              "text": "lustre"
+            },
+            {
+              "label": "D",
+              "text": "streak"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "cleavage",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w03-q10",
+          "number": 10,
+          "question": "Slow cooling of magma results in",
+          "options": [
+            {
+              "label": "A",
+              "text": "smooth grained sedimentary rocks"
+            },
+            {
+              "label": "B",
+              "text": "coarse grained sedimentary rocks"
+            },
+            {
+              "label": "C",
+              "text": "smooth grained igneous rocks"
+            },
+            {
+              "label": "D",
+              "text": "coarse grained igneous rocks"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "coarse grained igneous rocks",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Week 4",
+      "sourcePdf": "Conservation Geography Week 4 Solutions.pdf",
+      "sourcePages": 3,
+      "questions": [
+        {
+          "id": "cg-w04-q01",
+          "number": 1,
+          "question": "Carbon sequestration in geological sites is an option for",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitigation"
+            },
+            {
+              "label": "B",
+              "text": "adaptation"
+            },
+            {
+              "label": "C",
+              "text": "both of these"
+            },
+            {
+              "label": "D",
+              "text": "none of these"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "mitigation",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w04-q02",
+          "number": 2,
+          "question": "To reduce the effect of altitude, isobars are generally drawn after converting pressure values to",
+          "options": [
+            {
+              "label": "A",
+              "text": "surface temperature level"
+            },
+            {
+              "label": "B",
+              "text": "cloud base level"
+            },
+            {
+              "label": "C",
+              "text": "tropopause level"
+            },
+            {
+              "label": "D",
+              "text": "sea level"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "sea level",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w04-q03",
+          "number": 3,
+          "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management has built several artificial water holes for animals, and fills them up regularly with tankers. In the context of climate change, such an action would be called",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptation"
+            },
+            {
+              "label": "B",
+              "text": "mitigation"
+            },
+            {
+              "label": "C",
+              "text": "deceleration"
+            },
+            {
+              "label": "D",
+              "text": "maladaptation"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "adaptation",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w04-q04",
+          "number": 4,
+          "question": "Surplus seed and sperm banking is an adaptation option to facilitate",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance to climate changes"
+            },
+            {
+              "label": "B",
+              "text": "resilience to climate changes"
+            },
+            {
+              "label": "C",
+              "text": "response to climate changes"
+            },
+            {
+              "label": "D",
+              "text": "none of these"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "resilience to climate changes",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w04-q05",
+          "number": 5,
+          "question": "Flights of jet planes typically occur in",
+          "options": [
+            {
+              "label": "A",
+              "text": "Troposphere"
+            },
+            {
+              "label": "B",
+              "text": "Stratosphere"
+            },
+            {
+              "label": "C",
+              "text": "Mesosphere"
+            },
+            {
+              "label": "D",
+              "text": "Thermosphere"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Stratosphere",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w04-q06",
+          "number": 6,
+          "question": "Heat movement through horizontal movement of air is called",
+          "options": [
+            {
+              "label": "A",
+              "text": "convection"
+            },
+            {
+              "label": "B",
+              "text": "radiation"
+            },
+            {
+              "label": "C",
+              "text": "advection"
+            },
+            {
+              "label": "D",
+              "text": "conduction"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "advection",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w04-q07",
+          "number": 7,
+          "question": "The classical period for taking averages for climate is",
+          "options": [
+            {
+              "label": "A",
+              "text": "10 years"
+            },
+            {
+              "label": "B",
+              "text": "20 years"
+            },
+            {
+              "label": "C",
+              "text": "30 years"
+            },
+            {
+              "label": "D",
+              "text": "40 years"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "30 years",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w04-q08",
+          "number": 8,
+          "question": "Noctilucent clouds are present in which layer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Troposphere"
+            },
+            {
+              "label": "B",
+              "text": "Stratosphere"
+            },
+            {
+              "label": "C",
+              "text": "Mesosphere"
+            },
+            {
+              "label": "D",
+              "text": "Thermosphere"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Mesosphere",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w04-q09",
+          "number": 9,
+          "question": "Atmospheric pressure is mainly caused by",
+          "options": [
+            {
+              "label": "A",
+              "text": "horizontal movement of clouds"
+            },
+            {
+              "label": "B",
+              "text": "the weight of air above the point of measurement"
+            },
+            {
+              "label": "C",
+              "text": "absorption of ultraviolet radiation"
+            },
+            {
+              "label": "D",
+              "text": "seasonal movement of pressure belts"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "the weight of air above the point of measurement",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w04-q10",
+          "number": 10,
+          "question": "Which of these air masses is generally warm and moist?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cP"
+            },
+            {
+              "label": "B",
+              "text": "cT"
+            },
+            {
+              "label": "C",
+              "text": "mP"
+            },
+            {
+              "label": "D",
+              "text": "mT"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "mT",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Week 5",
+      "sourcePdf": "Conservation Geography Week 5 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w05-q01",
+          "number": 1,
+          "question": "What type of sediment is commonly found over abyssal plains?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coral fragments and gravel"
+            },
+            {
+              "label": "B",
+              "text": "Basalt blocks and volcanic ash"
+            },
+            {
+              "label": "C",
+              "text": "Sand and large pebbles"
+            },
+            {
+              "label": "D",
+              "text": "Clay and silt"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Clay and silt",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w05-q02",
+          "number": 2,
+          "question": "Which of these is the largest habitat on the Earth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "continental shelf"
+            },
+            {
+              "label": "B",
+              "text": "continental slope"
+            },
+            {
+              "label": "C",
+              "text": "guyot"
+            },
+            {
+              "label": "D",
+              "text": "abyssal plain"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "abyssal plain",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w05-q03",
+          "number": 3,
+          "question": "Which of these are the largest mountain ranges on Earth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "oceanic deep / trench"
+            },
+            {
+              "label": "B",
+              "text": "mid-oceanic ridge"
+            },
+            {
+              "label": "C",
+              "text": "seamount"
+            },
+            {
+              "label": "D",
+              "text": "atoll"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "mid-oceanic ridge",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w05-q04",
+          "number": 4,
+          "question": "Which factor helps explain why continental shelves are often highly productive?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are the deepest parts of the ocean floor"
+            },
+            {
+              "label": "B",
+              "text": "They are completely isolated from runoff"
+            },
+            {
+              "label": "C",
+              "text": "They receive both light and nutrients"
+            },
+            {
+              "label": "D",
+              "text": "They lack sediments and organisms"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "They receive both light and nutrients",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w05-q05",
+          "number": 5,
+          "question": "What is tidal range?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The horizontal movement of water parallel to the beach"
+            },
+            {
+              "label": "B",
+              "text": "The difference between sea level at high tide and low tide"
+            },
+            {
+              "label": "C",
+              "text": "The speed at which waves approach the coast"
+            },
+            {
+              "label": "D",
+              "text": "The movement of cold water from deep ocean layers"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "The difference between sea level at high tide and low tide",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w05-q06",
+          "number": 6,
+          "question": "Which process converts ice and snow directly into water vapour?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Condensation"
+            },
+            {
+              "label": "B",
+              "text": "Precipitation"
+            },
+            {
+              "label": "C",
+              "text": "Snowmelt"
+            },
+            {
+              "label": "D",
+              "text": "Sublimation"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Sublimation",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w05-q07",
+          "number": 7,
+          "question": "Which group of factors affects the density of ocean water with depth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Runoff, tides and beach slope"
+            },
+            {
+              "label": "B",
+              "text": "Hydrostatic pressure, salinity and temperature"
+            },
+            {
+              "label": "C",
+              "text": "Wind speed, wave height and latitude only"
+            },
+            {
+              "label": "D",
+              "text": "Sediment size, coral growth and river mouths"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Hydrostatic pressure, salinity and temperature",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w05-q08",
+          "number": 8,
+          "question": "“deep valleys, often cutting across continental shelves and slopes” is a description of",
+          "options": [
+            {
+              "label": "A",
+              "text": "oceanic deep / trench"
+            },
+            {
+              "label": "B",
+              "text": "mid-oceanic ridge"
+            },
+            {
+              "label": "C",
+              "text": "guyot"
+            },
+            {
+              "label": "D",
+              "text": "submarine canyon"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "submarine canyon",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w05-q09",
+          "number": 9,
+          "question": "Continental shelf has a gradient of",
+          "options": [
+            {
+              "label": "A",
+              "text": "0-1 degree"
+            },
+            {
+              "label": "B",
+              "text": "1-2 degree"
+            },
+            {
+              "label": "C",
+              "text": "2-5 degree"
+            },
+            {
+              "label": "D",
+              "text": "5-10 degree"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "0-1 degree",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w05-q10",
+          "number": 10,
+          "question": "Equal salinity curves are called",
+          "options": [
+            {
+              "label": "A",
+              "text": "isopycnal curves"
+            },
+            {
+              "label": "B",
+              "text": "isohaline curves"
+            },
+            {
+              "label": "C",
+              "text": "isotherm curves"
+            },
+            {
+              "label": "D",
+              "text": "isobuoyant curves"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "isohaline curves",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Week 6",
+      "sourcePdf": "Conservation Geography Week 6 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w06-q01",
+          "number": 1,
+          "question": "The Western Ghats act as a water divide because",
+          "options": [
+            {
+              "label": "A",
+              "text": "they prevent all rivers from reaching the sea"
+            },
+            {
+              "label": "B",
+              "text": "water on opposite sides flows in different directions"
+            },
+            {
+              "label": "C",
+              "text": "they cause all rivers to become seasonal"
+            },
+            {
+              "label": "D",
+              "text": "they convert rivers into lakes"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "water on opposite sides flows in different directions",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w06-q02",
+          "number": 2,
+          "question": "A river network that follows the structure and slope of the land is best described as",
+          "options": [
+            {
+              "label": "A",
+              "text": "discordant"
+            },
+            {
+              "label": "B",
+              "text": "antecedent"
+            },
+            {
+              "label": "C",
+              "text": "accordant"
+            },
+            {
+              "label": "D",
+              "text": "centripetal"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "accordant",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w06-q03",
+          "number": 3,
+          "question": "A tree-like river network in which smaller streams join a main channel is called",
+          "options": [
+            {
+              "label": "A",
+              "text": "trellis drainage"
+            },
+            {
+              "label": "B",
+              "text": "dendritic drainage"
+            },
+            {
+              "label": "C",
+              "text": "centripetal drainage"
+            },
+            {
+              "label": "D",
+              "text": "rectangular drainage"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "dendritic drainage",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w06-q04",
+          "number": 4,
+          "question": "A river system that does not match the present structure and relief of the landscape is called",
+          "options": [
+            {
+              "label": "A",
+              "text": "discordant drainage"
+            },
+            {
+              "label": "B",
+              "text": "dendritic drainage"
+            },
+            {
+              "label": "C",
+              "text": "radial drainage"
+            },
+            {
+              "label": "D",
+              "text": "parallel drainage"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "discordant drainage",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w06-q05",
+          "number": 5,
+          "question": "The Himalayas are primarily comprised of",
+          "options": [
+            {
+              "label": "A",
+              "text": "sedimentary rocks"
+            },
+            {
+              "label": "B",
+              "text": "igneous rocks"
+            },
+            {
+              "label": "C",
+              "text": "metamorphic rocks"
+            },
+            {
+              "label": "D",
+              "text": "b and c"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "sedimentary rocks",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w06-q06",
+          "number": 6,
+          "question": "Which pair of rivers is described as flowing westwards into the Arabian Sea?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ganga and Yamuna"
+            },
+            {
+              "label": "B",
+              "text": "Mahanadi and Godavari"
+            },
+            {
+              "label": "C",
+              "text": "Narmada and Tapi"
+            },
+            {
+              "label": "D",
+              "text": "Krishna and Kaveri"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Narmada and Tapi",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w06-q07",
+          "number": 7,
+          "question": "Which of these are factors determining the climate of India?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance from the sea"
+            },
+            {
+              "label": "B",
+              "text": "altitude"
+            },
+            {
+              "label": "C",
+              "text": "relief"
+            },
+            {
+              "label": "D",
+              "text": "all of these"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of these",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w06-q08",
+          "number": 8,
+          "question": "Peninsular rivers usually have fixed courses mainly because",
+          "options": [
+            {
+              "label": "A",
+              "text": "they flow through newly formed mountains"
+            },
+            {
+              "label": "B",
+              "text": "they carry very high sediment loads"
+            },
+            {
+              "label": "C",
+              "text": "they are controlled only by monsoon winds"
+            },
+            {
+              "label": "D",
+              "text": "their courses are cut into older, harder rocks"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "their courses are cut into older, harder rocks",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w06-q09",
+          "number": 9,
+          "question": "In Koeppen classification, which is polar frost temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "c"
+            },
+            {
+              "label": "B",
+              "text": "d"
+            },
+            {
+              "label": "C",
+              "text": "F"
+            },
+            {
+              "label": "D",
+              "text": "T"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "F",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w06-q10",
+          "number": 10,
+          "question": "Which of these are factors determining the climate of India?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the latitudinal extent"
+            },
+            {
+              "label": "B",
+              "text": "the Himalayas forming a climatic divide"
+            },
+            {
+              "label": "C",
+              "text": "distribution of land and water"
+            },
+            {
+              "label": "D",
+              "text": "all of these"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of these",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "title": "Week 7",
+      "sourcePdf": "Conservation Geography Week 7 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w07-q01",
+          "number": 1,
+          "question": "Which soils are generally sandy, saline, low in moisture and commonly found in Rajasthan and Gujarat?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forest soils"
+            },
+            {
+              "label": "B",
+              "text": "Arid soils"
+            },
+            {
+              "label": "C",
+              "text": "Peaty soils"
+            },
+            {
+              "label": "D",
+              "text": "Red and yellow soils"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Arid soils",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w07-q02",
+          "number": 2,
+          "question": "Cryofracturing is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "chemical weathering"
+            },
+            {
+              "label": "B",
+              "text": "physical weathering"
+            },
+            {
+              "label": "C",
+              "text": "biological weathering"
+            },
+            {
+              "label": "D",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "physical weathering",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w07-q03",
+          "number": 3,
+          "question": "Bangar is a type of",
+          "options": [
+            {
+              "label": "A",
+              "text": "black cotton soil"
+            },
+            {
+              "label": "B",
+              "text": "alluvial soil"
+            },
+            {
+              "label": "C",
+              "text": "saline soil"
+            },
+            {
+              "label": "D",
+              "text": "red and yellow soil"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "alluvial soil",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w07-q04",
+          "number": 4,
+          "question": "\"the diversity that exists within an ecosystem\" is",
+          "options": [
+            {
+              "label": "A",
+              "text": "alpha (α) biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "beta (β) biodiversity"
+            },
+            {
+              "label": "C",
+              "text": "gamma (γ) biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "delta (δ) biodiversity"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "alpha (α) biodiversity",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w07-q05",
+          "number": 5,
+          "question": "A climax caused by wildfires is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "climatic climax"
+            },
+            {
+              "label": "B",
+              "text": "edaphic climax"
+            },
+            {
+              "label": "C",
+              "text": "disclimax"
+            },
+            {
+              "label": "D",
+              "text": "catastrophic climax"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "catastrophic climax",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w07-q06",
+          "number": 6,
+          "question": "For more biodiversity, the level of disturbance should be",
+          "options": [
+            {
+              "label": "A",
+              "text": "less"
+            },
+            {
+              "label": "B",
+              "text": "intermediate"
+            },
+            {
+              "label": "C",
+              "text": "more"
+            },
+            {
+              "label": "D",
+              "text": "none of these"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "intermediate",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w07-q07",
+          "number": 7,
+          "question": "\"the diversity that exists among different geographies\" is",
+          "options": [
+            {
+              "label": "A",
+              "text": "alpha (α) biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "beta (β) biodiversity"
+            },
+            {
+              "label": "C",
+              "text": "gamma (γ) biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "delta (δ) biodiversity"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "gamma (γ) biodiversity",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w07-q08",
+          "number": 8,
+          "question": "Vertical arrangement of soil horizons is called",
+          "options": [
+            {
+              "label": "A",
+              "text": "soil texture"
+            },
+            {
+              "label": "B",
+              "text": "soil structure"
+            },
+            {
+              "label": "C",
+              "text": "soil profile"
+            },
+            {
+              "label": "D",
+              "text": "soil science"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "soil profile",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w07-q09",
+          "number": 9,
+          "question": "Carbonation is an example of",
+          "options": [
+            {
+              "label": "A",
+              "text": "chemical weathering"
+            },
+            {
+              "label": "B",
+              "text": "physical weathering"
+            },
+            {
+              "label": "C",
+              "text": "biological weathering"
+            },
+            {
+              "label": "D",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "chemical weathering",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w07-q10",
+          "number": 10,
+          "question": "Which soil property refers to the arrangement of solid soil parts and pore spaces between them?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Soil fertility"
+            },
+            {
+              "label": "B",
+              "text": "Soil texture"
+            },
+            {
+              "label": "C",
+              "text": "Soil horizon"
+            },
+            {
+              "label": "D",
+              "text": "Soil structure"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Soil structure",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "title": "Week 8",
+      "sourcePdf": "Conservation Geography Week 8 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w08-q01",
+          "number": 1,
+          "question": "Which of the following is listed as an ex-situ conservation method?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wildlife sanctuary"
+            },
+            {
+              "label": "B",
+              "text": "National park"
+            },
+            {
+              "label": "C",
+              "text": "Seed bank"
+            },
+            {
+              "label": "D",
+              "text": "Biosphere reserve"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Seed bank",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w08-q02",
+          "number": 2,
+          "question": "Which factor makes smaller populations especially vulnerable due to mating among close relatives?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Habitat displacement"
+            },
+            {
+              "label": "B",
+              "text": "Eutrophication"
+            },
+            {
+              "label": "C",
+              "text": "Inbreeding depression"
+            },
+            {
+              "label": "D",
+              "text": "Carbon storage"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Inbreeding depression",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w08-q03",
+          "number": 3,
+          "question": "Which type of species plays a much greater ecological role than expected from its abundance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Umbrella species"
+            },
+            {
+              "label": "B",
+              "text": "Flagship species"
+            },
+            {
+              "label": "C",
+              "text": "Least concern species"
+            },
+            {
+              "label": "D",
+              "text": "Keystone species"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Keystone species",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w08-q04",
+          "number": 4,
+          "question": "A species found only in a single lake is rare mainly because of",
+          "options": [
+            {
+              "label": "A",
+              "text": "high birth rate"
+            },
+            {
+              "label": "B",
+              "text": "limited geographical range"
+            },
+            {
+              "label": "C",
+              "text": "high adaptability"
+            },
+            {
+              "label": "D",
+              "text": "large home range"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "limited geographical range",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w08-q05",
+          "number": 5,
+          "question": "Which of the following is a disadvantage of ex-situ conservation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It always protects the natural habitat of the species"
+            },
+            {
+              "label": "B",
+              "text": "Captive-bred individuals may find reintroduction difficult"
+            },
+            {
+              "label": "C",
+              "text": "It prevents all inbreeding risks automatically"
+            },
+            {
+              "label": "D",
+              "text": "It can be planned for all species at the same time"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Captive-bred individuals may find reintroduction difficult",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w08-q06",
+          "number": 6,
+          "question": "In the species-area relationship, what does “S” represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Size of the habitat"
+            },
+            {
+              "label": "B",
+              "text": "Species richness"
+            },
+            {
+              "label": "C",
+              "text": "Survival rate"
+            },
+            {
+              "label": "D",
+              "text": "Stochastic pressure"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Species richness",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w08-q07",
+          "number": 7,
+          "question": "In the Clear Lake example, DDD concentration increased from water to plankton, fish, and piscivorous birds. This illustrates",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecological redundancy"
+            },
+            {
+              "label": "B",
+              "text": "habitat selection"
+            },
+            {
+              "label": "C",
+              "text": "biomagnification"
+            },
+            {
+              "label": "D",
+              "text": "ex-situ management"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "biomagnification",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w08-q08",
+          "number": 8,
+          "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+          "options": [
+            {
+              "label": "A",
+              "text": "very high"
+            },
+            {
+              "label": "B",
+              "text": "medium"
+            },
+            {
+              "label": "C",
+              "text": "very low"
+            },
+            {
+              "label": "D",
+              "text": "non-existent"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "medium",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w08-q09",
+          "number": 9,
+          "question": "The acronym HIPPO does not include",
+          "options": [
+            {
+              "label": "A",
+              "text": "habitat loss"
+            },
+            {
+              "label": "B",
+              "text": "invasive species"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "pollution"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "pollination",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w08-q10",
+          "number": 10,
+          "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+          "options": [
+            {
+              "label": "A",
+              "text": "umbrella species"
+            },
+            {
+              "label": "B",
+              "text": "keystone species"
+            },
+            {
+              "label": "C",
+              "text": "flagship species"
+            },
+            {
+              "label": "D",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of the above",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "title": "Week 9",
+      "sourcePdf": "Conservation Geography Week 9 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w09-q01",
+          "number": 1,
+          "question": "Sex ratio is calculated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Female population divided by male population multiplied by 1000"
+            },
+            {
+              "label": "B",
+              "text": "Male population divided by female population multiplied by 1000"
+            },
+            {
+              "label": "C",
+              "text": "Total population divided by female population multiplied by 1000"
+            },
+            {
+              "label": "D",
+              "text": "Working population divided by dependent population multiplied by 1000"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "Female population divided by male population multiplied by 1000",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w09-q02",
+          "number": 2,
+          "question": "Which of these is commonly observed during humanising of nature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "environmental determinism"
+            },
+            {
+              "label": "B",
+              "text": "possibilism"
+            },
+            {
+              "label": "C",
+              "text": "neodeterminism"
+            },
+            {
+              "label": "D",
+              "text": "stop and go determinism"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "possibilism",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w09-q03",
+          "number": 3,
+          "question": "The age dependency ratio compares dependent population with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "total female population"
+            },
+            {
+              "label": "B",
+              "text": "working-age population"
+            },
+            {
+              "label": "C",
+              "text": "urban population"
+            },
+            {
+              "label": "D",
+              "text": "migrant population"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "working-age population",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w09-q04",
+          "number": 4,
+          "question": "The logistic growth equation curve is",
+          "options": [
+            {
+              "label": "A",
+              "text": "I-shaped"
+            },
+            {
+              "label": "B",
+              "text": "J-shaped"
+            },
+            {
+              "label": "C",
+              "text": "S-shaped"
+            },
+            {
+              "label": "D",
+              "text": "U-shaped"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "S-shaped",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w09-q05",
+          "number": 5,
+          "question": "Which of these is a positive check according to Malthus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "late marriage"
+            },
+            {
+              "label": "B",
+              "text": "war"
+            },
+            {
+              "label": "C",
+              "text": "celibacy"
+            },
+            {
+              "label": "D",
+              "text": "moral restraint"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "war",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w09-q06",
+          "number": 6,
+          "question": "Economic development is often measured in terms of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "age dependency ratio"
+            },
+            {
+              "label": "B",
+              "text": "total land area"
+            },
+            {
+              "label": "C",
+              "text": "GDP per capita"
+            },
+            {
+              "label": "D",
+              "text": "sex ratio"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "GDP per capita",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w09-q07",
+          "number": 7,
+          "question": "Which of these is not a pillar of sustainability?",
+          "options": [
+            {
+              "label": "A",
+              "text": "environmental sustainability"
+            },
+            {
+              "label": "B",
+              "text": "economic sustainability"
+            },
+            {
+              "label": "C",
+              "text": "trans-boundary sustainability"
+            },
+            {
+              "label": "D",
+              "text": "social sustainability"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "trans-boundary sustainability",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w09-q08",
+          "number": 8,
+          "question": "The demographic transition sees a society move from",
+          "options": [
+            {
+              "label": "A",
+              "text": "high birth rate, low death rate to low birth rate, high death rate"
+            },
+            {
+              "label": "B",
+              "text": "low birth rate, high death rate to low birth rate, low death rate"
+            },
+            {
+              "label": "C",
+              "text": "high birth rate, high death rate to low birth rate, low death rate"
+            },
+            {
+              "label": "D",
+              "text": "high birth rate, high death rate to low birth rate, high death rate"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "high birth rate, high death rate to low birth rate, low death rate",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w09-q09",
+          "number": 9,
+          "question": "Which of these is a preventive check according to Malthus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "foresight"
+            },
+            {
+              "label": "B",
+              "text": "vice"
+            },
+            {
+              "label": "C",
+              "text": "misery"
+            },
+            {
+              "label": "D",
+              "text": "flood"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "foresight",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w09-q10",
+          "number": 10,
+          "question": "Which population group is generally treated as the working population?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0-15 years"
+            },
+            {
+              "label": "B",
+              "text": "15-64 years"
+            },
+            {
+              "label": "C",
+              "text": "65 years and above"
+            },
+            {
+              "label": "D",
+              "text": "0-15 and 65 years and above"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "15-64 years",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "title": "Week 10",
+      "sourcePdf": "Conservation Geography Week 10 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w10-q01",
+          "number": 1,
+          "question": "When forests are cleared, carbon may be released not only from removed wood but also from",
+          "options": [
+            {
+              "label": "A",
+              "text": "ocean sediments"
+            },
+            {
+              "label": "B",
+              "text": "glaciers"
+            },
+            {
+              "label": "C",
+              "text": "soil organic matter"
+            },
+            {
+              "label": "D",
+              "text": "desert sand"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "soil organic matter",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w10-q02",
+          "number": 2,
+          "question": "Hydrogen for nuclear fusion comes under the category of",
+          "options": [
+            {
+              "label": "A",
+              "text": "potential resources"
+            },
+            {
+              "label": "B",
+              "text": "actual resources"
+            },
+            {
+              "label": "C",
+              "text": "reserve resources"
+            },
+            {
+              "label": "D",
+              "text": "stock resources"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "stock resources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w10-q03",
+          "number": 3,
+          "question": "In the Rondonia rainforest example, road construction mainly contributed to forest loss by",
+          "options": [
+            {
+              "label": "A",
+              "text": "increasing rainfall in cleared patches"
+            },
+            {
+              "label": "B",
+              "text": "allowing easier human access into forest areas"
+            },
+            {
+              "label": "C",
+              "text": "preventing agricultural plots from forming"
+            },
+            {
+              "label": "D",
+              "text": "converting cropland back into forest"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "allowing easier human access into forest areas",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w10-q04",
+          "number": 4,
+          "question": "Oil that has not been drilled can be categorised under",
+          "options": [
+            {
+              "label": "A",
+              "text": "potential resources"
+            },
+            {
+              "label": "B",
+              "text": "actual resources"
+            },
+            {
+              "label": "C",
+              "text": "reserve resources"
+            },
+            {
+              "label": "D",
+              "text": "stock resources"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "potential resources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w10-q05",
+          "number": 5,
+          "question": "Although cropland uses a smaller share of agricultural land than livestock, it contributes more to",
+          "options": [
+            {
+              "label": "A",
+              "text": "global calorie supply"
+            },
+            {
+              "label": "B",
+              "text": "mineral extraction"
+            },
+            {
+              "label": "C",
+              "text": "groundwater recharge"
+            },
+            {
+              "label": "D",
+              "text": "built-up land expansion"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "global calorie supply",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w10-q06",
+          "number": 6,
+          "question": "Low concentration ores come in the category of",
+          "options": [
+            {
+              "label": "A",
+              "text": "potential resources"
+            },
+            {
+              "label": "B",
+              "text": "actual resources"
+            },
+            {
+              "label": "C",
+              "text": "reserve resources"
+            },
+            {
+              "label": "D",
+              "text": "stock resources"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "reserve resources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w10-q07",
+          "number": 7,
+          "question": "“those resources that have been surveyed but we lack the technology to use them” is a definition of",
+          "options": [
+            {
+              "label": "A",
+              "text": "potential resources"
+            },
+            {
+              "label": "B",
+              "text": "actual resources"
+            },
+            {
+              "label": "C",
+              "text": "reserve resources"
+            },
+            {
+              "label": "D",
+              "text": "stock resources"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "stock resources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w10-q08",
+          "number": 8,
+          "question": "Which of these is the largest source of nitrogen oxides in the atmosphere?",
+          "options": [
+            {
+              "label": "A",
+              "text": "electricity generation"
+            },
+            {
+              "label": "B",
+              "text": "mobile sources"
+            },
+            {
+              "label": "C",
+              "text": "industrial processes"
+            },
+            {
+              "label": "D",
+              "text": "waste disposal"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "mobile sources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w10-q09",
+          "number": 9,
+          "question": "Timber from forests that is being harvested can be categorised under",
+          "options": [
+            {
+              "label": "A",
+              "text": "potential resources"
+            },
+            {
+              "label": "B",
+              "text": "actual resources"
+            },
+            {
+              "label": "C",
+              "text": "reserve resources"
+            },
+            {
+              "label": "D",
+              "text": "stock resources"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "actual resources",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w10-q10",
+          "number": 10,
+          "question": "Which of these is the largest source of ammonia (NH3) in the atmosphere?",
+          "options": [
+            {
+              "label": "A",
+              "text": "animal manure"
+            },
+            {
+              "label": "B",
+              "text": "mineral fertiliser"
+            },
+            {
+              "label": "C",
+              "text": "crops and their decomposition"
+            },
+            {
+              "label": "D",
+              "text": "human waste"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "animal manure",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "title": "Week 11",
+      "sourcePdf": "Conservation Geography Week 11 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w11-q01",
+          "number": 1,
+          "question": "“the ability to produce a good using fewer inputs than another producer” is",
+          "options": [
+            {
+              "label": "A",
+              "text": "comparative advantage"
+            },
+            {
+              "label": "B",
+              "text": "absolute advantage"
+            },
+            {
+              "label": "C",
+              "text": "production advantage"
+            },
+            {
+              "label": "D",
+              "text": "resource advantage"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "absolute advantage",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w11-q02",
+          "number": 2,
+          "question": "Which of these is / are example(s) of mitigation measures to mitigate impacts of linear infrastructure on wildlife?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bridge underpasses"
+            },
+            {
+              "label": "B",
+              "text": "box culverts"
+            },
+            {
+              "label": "C",
+              "text": "pipe culverts"
+            },
+            {
+              "label": "D",
+              "text": "all of these"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of these",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w11-q03",
+          "number": 3,
+          "question": "Which mode of connection is described as requiring more money and technology to construct than roads?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shipping lines"
+            },
+            {
+              "label": "B",
+              "text": "Railways"
+            },
+            {
+              "label": "C",
+              "text": "Inland waterways"
+            },
+            {
+              "label": "D",
+              "text": "Footpaths"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Railways",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w11-q04",
+          "number": 4,
+          "question": "Which of these is a factor governing barrier effect of roads?",
+          "options": [
+            {
+              "label": "A",
+              "text": "road edge features"
+            },
+            {
+              "label": "B",
+              "text": "time of day and year"
+            },
+            {
+              "label": "C",
+              "text": "species diversity in the surroundings"
+            },
+            {
+              "label": "D",
+              "text": "all of these"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of these",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w11-q05",
+          "number": 5,
+          "question": "Which of these is a factor governing barrier effect of roads?",
+          "options": [
+            {
+              "label": "A",
+              "text": "traffic intensity"
+            },
+            {
+              "label": "B",
+              "text": "speed of vehicles"
+            },
+            {
+              "label": "C",
+              "text": "driver sensitivity"
+            },
+            {
+              "label": "D",
+              "text": "all of these"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "all of these",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w11-q06",
+          "number": 6,
+          "question": "“the ability to produce a good at a lower opportunity cost than another producer” is a definition of",
+          "options": [
+            {
+              "label": "A",
+              "text": "real advantage"
+            },
+            {
+              "label": "B",
+              "text": "monetary advantage"
+            },
+            {
+              "label": "C",
+              "text": "comparative advantage"
+            },
+            {
+              "label": "D",
+              "text": "opportunity advantage"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "comparative advantage",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w11-q07",
+          "number": 7,
+          "question": "Dust released from ships can help reveal ship movement because dust particles act as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fuel particles"
+            },
+            {
+              "label": "B",
+              "text": "Noise absorbers"
+            },
+            {
+              "label": "C",
+              "text": "Nuclei for condensation"
+            },
+            {
+              "label": "D",
+              "text": "Ocean-current markers"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Nuclei for condensation",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w11-q08",
+          "number": 8,
+          "question": "Which of the following is identified as a way in which roads disturb wildlife at night?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They reduce wind movement"
+            },
+            {
+              "label": "B",
+              "text": "They increase soil moisture"
+            },
+            {
+              "label": "C",
+              "text": "They create silent zones"
+            },
+            {
+              "label": "D",
+              "text": "They cause light pollution through headlamps"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "They cause light pollution through headlamps",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w11-q09",
+          "number": 9,
+          "question": "Which statement best describes why young male tigers or leopards may need to move away from their natal area?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To avoid seasonal flooding"
+            },
+            {
+              "label": "B",
+              "text": "To reduce conflict and avoid inbreeding"
+            },
+            {
+              "label": "C",
+              "text": "To follow shipping routes"
+            },
+            {
+              "label": "D",
+              "text": "To increase road density"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "To reduce conflict and avoid inbreeding",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w11-q10",
+          "number": 10,
+          "question": "Oxford can best be categorised as",
+          "options": [
+            {
+              "label": "A",
+              "text": "mining town"
+            },
+            {
+              "label": "B",
+              "text": "garrison town"
+            },
+            {
+              "label": "C",
+              "text": "educational town"
+            },
+            {
+              "label": "D",
+              "text": "religious town"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "educational town",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "title": "Week 12",
+      "sourcePdf": "Conservation Geography Week 12 Solutions.pdf",
+      "sourcePages": 2,
+      "questions": [
+        {
+          "id": "cg-w12-q01",
+          "number": 1,
+          "question": "“The conditions determined by physical, social, economic and environmental factors or processes which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards.” is a definition for",
+          "options": [
+            {
+              "label": "A",
+              "text": "hazard"
+            },
+            {
+              "label": "B",
+              "text": "exposure"
+            },
+            {
+              "label": "C",
+              "text": "vulnerability"
+            },
+            {
+              "label": "D",
+              "text": "disaster"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "vulnerability",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w12-q02",
+          "number": 2,
+          "question": "The time of flight for LiDAR is 0.00001 sec. Find the distance of the object from the instrument.",
+          "options": [
+            {
+              "label": "A",
+              "text": "500 m"
+            },
+            {
+              "label": "B",
+              "text": "1000 m"
+            },
+            {
+              "label": "C",
+              "text": "1500 m"
+            },
+            {
+              "label": "D",
+              "text": "2000 m"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "1500 m",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w12-q03",
+          "number": 3,
+          "question": "Which application of photogrammetry focuses on understanding what is happening in an area rather than measuring quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metric application"
+            },
+            {
+              "label": "B",
+              "text": "Radiometric application"
+            },
+            {
+              "label": "C",
+              "text": "Interpretive application"
+            },
+            {
+              "label": "D",
+              "text": "Fiducial application"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Interpretive application",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w12-q04",
+          "number": 4,
+          "question": "“A process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property damage, social and economic disruption or environmental degradation.” is a definition for",
+          "options": [
+            {
+              "label": "A",
+              "text": "hazard"
+            },
+            {
+              "label": "B",
+              "text": "exposure"
+            },
+            {
+              "label": "C",
+              "text": "vulnerability"
+            },
+            {
+              "label": "D",
+              "text": "disaster"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "hazard",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w12-q05",
+          "number": 5,
+          "question": "IMU stands for",
+          "options": [
+            {
+              "label": "A",
+              "text": "Imperial metering unit"
+            },
+            {
+              "label": "B",
+              "text": "Inertial metering unit"
+            },
+            {
+              "label": "C",
+              "text": "Imperial measurement unit"
+            },
+            {
+              "label": "D",
+              "text": "Inertial measurement unit"
+            }
+          ],
+          "correctAnswer": "D",
+          "correctAnswerText": "Inertial measurement unit",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 1
+        },
+        {
+          "id": "cg-w12-q06",
+          "number": 6,
+          "question": "Which application of photogrammetry is involved when the area of forest cover or the size of plantation pits is calculated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Interpretive application"
+            },
+            {
+              "label": "B",
+              "text": "Metric application"
+            },
+            {
+              "label": "C",
+              "text": "Oblique application"
+            },
+            {
+              "label": "D",
+              "text": "Passive application"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Metric application",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w12-q07",
+          "number": 7,
+          "question": "Which component is essential in a GIS along with hardware and software?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mirror system"
+            },
+            {
+              "label": "B",
+              "text": "Humanware"
+            },
+            {
+              "label": "C",
+              "text": "Shutter speed"
+            },
+            {
+              "label": "D",
+              "text": "Focal length"
+            }
+          ],
+          "correctAnswer": "B",
+          "correctAnswerText": "Humanware",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w12-q08",
+          "number": 8,
+          "question": "Which of these uses revealed willingness to pay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "market price method"
+            },
+            {
+              "label": "B",
+              "text": "replacement cost method"
+            },
+            {
+              "label": "C",
+              "text": "damage cost avoided method"
+            },
+            {
+              "label": "D",
+              "text": "contingent valuation method"
+            }
+          ],
+          "correctAnswer": "A",
+          "correctAnswerText": "market price method",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w12-q09",
+          "number": 9,
+          "question": "Which camera-axis orientation is intentionally tilted between vertical and horizontal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "True vertical"
+            },
+            {
+              "label": "B",
+              "text": "Near vertical"
+            },
+            {
+              "label": "C",
+              "text": "Oblique"
+            },
+            {
+              "label": "D",
+              "text": "Fiducial"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Oblique",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        },
+        {
+          "id": "cg-w12-q10",
+          "number": 10,
+          "question": "Which platform normally uses cameras placed at ground level with a horizontal camera orientation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Space-borne platform"
+            },
+            {
+              "label": "B",
+              "text": "Air-borne platform"
+            },
+            {
+              "label": "C",
+              "text": "Ground-borne platform"
+            },
+            {
+              "label": "D",
+              "text": "Orbital platform"
+            }
+          ],
+          "correctAnswer": "C",
+          "correctAnswerText": "Ground-borne platform",
+          "answerSource": "bold formatting in source PDF",
+          "sourcePage": 2
+        }
+      ]
+    }
+  ]
+}
